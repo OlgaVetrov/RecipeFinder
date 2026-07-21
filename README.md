@@ -40,12 +40,12 @@ Users can enter a recipe name or ingredient and explore different meal options w
 
 ✨ What you can do:
 
-🔍 Search recipes by keyword
-🖼️ View recipe images
-📝 Explore ingredients list
-🌎 See cuisine type information
-🥗 View diet labels
-📖 Discover different meal ideas
+- 🔍 Search recipes by keyword
+- 🖼️ View recipe images
+- 📝 Explore ingredients list
+- 🌎 See cuisine type information
+- 🥗 View diet labels
+- 📖 Discover different meal ideas
 
 ## 🛠️ Technologies
 
